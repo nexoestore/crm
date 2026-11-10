@@ -50,3 +50,6 @@ yarn-error.log*
 
 # Agent scratch files
 .scratch/
+
+/apps/nexo-whatsapp/.env
+/apps/nexo-whatsapp/data/
